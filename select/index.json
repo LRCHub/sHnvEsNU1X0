@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "腐れ外道とチョコレゐト",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2025-12-04T08:00:56.512928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "pinocchioP",
+      "has_synced": true,
+      "path": "select/01_腐れ外道とチョコレゐト_pinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "ピノキオP",
+      "has_synced": true,
+      "path": "select/02_腐れ外道とチョコレゐト_ピノキオP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト -Human Ver.-",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/03_腐れ外道とチョコレゐト_-Human_Ver.-_ピノキオピー.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/04_腐れ外道とチョコレゐト_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト (META remix)",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/05_腐れ外道とチョコレゐト_(META_remix)_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "灯油",
+      "has_synced": true,
+      "path": "select/06_腐れ外道とチョコレゐト_灯油.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/07_腐れ外道とチョコレゐト_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "Kano",
+      "has_synced": true,
+      "path": "select/08_腐れ外道とチョコレゐト_Kano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/09_腐れ外道とチョコレゐト_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト (META remix)",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/10_腐れ外道とチョコレゐト_(META_remix)_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト -HUMAN ver.-",
+      "artist": "PinocchioP",
+      "has_synced": false,
+      "path": "select/11_腐れ外道とチョコレゐト_-HUMAN_ver.-_PinocchioP.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/12_腐れ外道とチョコレゐト_ピノキオピー.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/13_腐れ外道とチョコレゐト_ピノキオピー_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/14_腐れ外道とチョコレゐト_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト -HUMAN ver.-",
+      "artist": "PinocchioP feat. Hatsune Miku",
+      "has_synced": false,
+      "path": "select/15_腐れ外道とチョコレゐト_-HUMAN_ver.-_PinocchioP_feat._Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/16_腐れ外道とチョコレゐト_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/17_腐れ外道とチョコレゐト_ピノキオピー_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト – META remix –",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/18_腐れ外道とチョコレゐト_–_META_remix_–_ピノキオピー.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "腐れ外道とチョコレゐト -HUMAN ver.-",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/19_腐れ外道とチョコレゐト_-HUMAN_ver.-_ピノキオピー_feat._初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "腐れ外道とチョコレゐト",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_腐れ外道とチョコレゐト_初音ミク.txt"
+    }
+  ]
+}
